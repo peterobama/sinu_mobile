@@ -1,0 +1,30 @@
+body {
+    background: url(https://raw.githubusercontent.com/peterobama/sinu_data/gh-pages/mobile_bg.jpg) no-repeat center center fixed;
+    
+}
+
+
+.neu1 {
+    position:absolute;
+    top: 80px;
+    margin:10px;
+     margin-left:30px;
+
+}
+.neu2 {
+    position:absolute;
+    top: 180px;
+    margin:10px;
+     margin-left:30px;
+
+}
+.neu3 {
+    position:absolute;
+    top: 280px;
+    margin:10px;
+     margin-left:30px;
+
+}
+
+
+
